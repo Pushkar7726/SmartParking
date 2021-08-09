@@ -63,7 +63,6 @@ class car
 
 		
 }a,a1;
-//brought to you by code-projects.org
 void delete_record()
 {
 	int n;
@@ -188,7 +187,7 @@ int main()
    }
 getch();
 }}
-//cpo
+
 int login(){
    string pass ="";
    char ch;
